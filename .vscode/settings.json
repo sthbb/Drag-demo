@@ -1,0 +1,23 @@
+{
+    "cSpell.words": [
+      "alarmsettings",
+      "amap",
+      "Avenir",
+      "changepwd",
+      "fieldlayout",
+      "fitlayout",
+      "gatestate",
+      "gatewayactive",
+      "gridview",
+      "gsap",
+      "mgmt",
+      "openeds",
+      "persistedstate",
+      "stacklayout",
+      "vuex"
+    ],
+    "editor.formatOnSave": true,
+    "vetur.format.defaultFormatter.js": "prettier",
+    "files.eol": "\n",
+    "js/ts.implicitProjectConfig.checkJs": true
+  }

@@ -1,0 +1,25 @@
+术语表:
+
+工作流顶部的工具栏WFBar
+
+JSON结构 WFSchema
+
+工具栏 WFTools
+
+工具栏中的项目 WFToolItem
+
+所有元素 WFElement
+
+节点 WFNode
+
+   节点Type:Start,Switch,If,End,Action
+
+锚点 WFEndpoint
+
+连线 WFContector
+
+自定义节点customWFNode
+
+自定义节点结构customWFSchema
+
+当前编辑节点的路径wfPath
